@@ -1,0 +1,23 @@
+{
+  "name": "githuprcomplier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/dotenv": "^8.2.0",
+    "@types/node": "^20.5.9",
+    "@types/react": "^18.2.21",
+    "@types/react-dom": "^18.2.7",
+    "express": "^4.18.2",
+    "mongoose": "^7.5.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "typescript": "^5.2.2"
+  }
+}
